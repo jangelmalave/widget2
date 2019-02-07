@@ -1,12 +1,66 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-
+    <link rel="stylesheet" href="css/material.min.css">
+    <link rel="stylesheet" href="css/main.css">     
+    <title>Calculadora de Proyectos ORMIGGA</title>
 </head>
 <body>
-<style>
+  <section class="card-square mdl-card mdl-shadow--2dp">  
+<header>
+    <div class="Logo"></div>
+</header>
+<div class="">
+    <h5>Calculadora ORMIGGA</h5>
+</div>
+<div class="select">
+    <div class="categoria">
+            <select id="categoria" name="categoria">
+                    <option value="visa">Visa</option>
+                    <option value="mc">Mastercard</option>
+                    <option value="amex">American Express</option>
+                  </select>
+    </div>
+    <div class="subcategoria">
+            <select id="subcategoria" name="usercard">
+                    <option value="visa">Visa</option>
+                    <option value="mc">Mastercard</option>
+                    <option value="amex">American Express</option>
+                  </select>
+    </div>
+</div>
+<div class="form">
+    <form action="">
+    <fieldset>
+        <label>Tu Presupuesto</label>
+      <input class="mdl-textfield__input" type="number" placeholder="$10.000">
+      
+    </fieldset>
+    </form>
 
-</style>
+</div>
+<div class="result">
+        <div class="demo-card-event mdl-card mdl-shadow--2dp">
+                <div class="mdl-card__title mdl-card--expand">
+                  <h4>
+                    Featured event:<br>
+                    May 24, 2016<br>
+                    7-11pm
+                  </h4>
+                </div>
+                <div class="mdl-card__actions mdl-card--border">
+                  <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                    Add to Calendar
+                  </a>
+                  <div class="mdl-layout-spacer"></div>
+                  <i class="material-icons">event</i>
+                </div>
+              </div>
+</div>
+</section>
 
+<script src="/js/jquery-3.3.1.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/material.min.js"></script>
 </body>
 </html>

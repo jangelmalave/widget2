@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,600');
+
+
+html, body,  {
+
+    font-family: "Montserrat", sans-serif !important;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Montserrat", sans-serif !important;
+}
+
+.card-square{
+    height: 300px;
+    width: 250px;
+}
+.Logo{
+    background: url(../ormigga-white.svg) center 15% no-repeat #46B6AC;
+}
