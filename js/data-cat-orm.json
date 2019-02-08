@@ -1,0 +1,581 @@
+[
+	{
+		"Categoría": "Merchandising",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "10%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Merchandising",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "10%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Merchandising",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "10%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Merchandising",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "10%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Merchandising",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "10%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Merchandising",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "10%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Material promocional",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "10%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Material promocional",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "10%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Material promocional",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "10%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Material promocional",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "10%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Material promocional",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "10%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Material promocional",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "10%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Material para punto de venta",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "10%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Material para punto de venta",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "10%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Material para punto de venta",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "10%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Material para punto de venta",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "10%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Material para punto de venta",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "10%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Material para punto de venta",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "10%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "BTL / Activaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "10%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "BTL / Activaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "10%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "BTL / Activaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "10%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "BTL / Activaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "10%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "BTL / Activaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "10%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "BTL / Activaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "10%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Organización de Eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "10%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Organización de Eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "10%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Organización de Eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "10%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Organización de Eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "10%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Organización de Eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "10%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Organización de Eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "10%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Impresiones",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "10%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Impresiones",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "10%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Impresiones",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "10%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Impresiones",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "10%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Impresiones",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "10%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Impresiones",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "10%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Avisos/publicidad exterior",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "10%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Avisos/publicidad exterior",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "10%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Avisos/publicidad exterior",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "10%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Avisos/publicidad exterior",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "10%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Avisos/publicidad exterior",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "10%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Avisos/publicidad exterior",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "10%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Agencias de publicidad / Digitales",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "10%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Agencias de publicidad / Digitales",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "10%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Agencias de publicidad / Digitales",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "10%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Agencias de publicidad / Digitales",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "10%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Agencias de publicidad / Digitales",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "10%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Agencias de publicidad / Digitales",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "10%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Locaciones / salones de eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "5%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Locaciones / salones de eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "5%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Locaciones / salones de eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "5%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Locaciones / salones de eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "5%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Locaciones / salones de eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "5%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Locaciones / salones de eventos",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "5%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Catering",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "5%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Catering",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "5%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Catering",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "5%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Catering",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "5%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Catering",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "5%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Catering",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "5%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Transporte",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "5%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Transporte",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "5%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Transporte",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "5%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Transporte",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "5%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Transporte",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "5%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Transporte",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "5%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Dotaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "5%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Dotaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "5%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Dotaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "5%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Dotaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "5%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Dotaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "5%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Dotaciones",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "5%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Papelería/material de oficina",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "5%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Papelería/material de oficina",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "5%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Papelería/material de oficina",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "5%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Papelería/material de oficina",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "5%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Papelería/material de oficina",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "5%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Papelería/material de oficina",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "5%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Cartones y Empaques",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "5%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Cartones y Empaques",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "5%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Cartones y Empaques",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "5%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Cartones y Empaques",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "5%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Cartones y Empaques",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "5%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Cartones y Empaques",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "5%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Embalajes",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "5%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Embalajes",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "5%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Embalajes",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "5%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Embalajes",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "5%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Embalajes",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "5%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Embalajes",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "5%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": "Ferretería",
+		"Subcategoría": "Sub-Cat Ejemplo 1",
+		"Ahorro": "5%",
+		"Tiempo": "18:00:00"
+	},
+	{
+		"Categoría": "Ferretería",
+		"Subcategoría": "Sub-Cat Ejemplo 2",
+		"Ahorro": "5%",
+		"Tiempo": "16:00:00"
+	},
+	{
+		"Categoría": "Ferretería",
+		"Subcategoría": "Sub-Cat Ejemplo 3",
+		"Ahorro": "5%",
+		"Tiempo": "14:00:00"
+	},
+	{
+		"Categoría": "Ferretería",
+		"Subcategoría": "Sub-Cat Ejemplo 4",
+		"Ahorro": "5%",
+		"Tiempo": "12:00:00"
+	},
+	{
+		"Categoría": "Ferretería",
+		"Subcategoría": "Sub-Cat Ejemplo 5",
+		"Ahorro": "5%",
+		"Tiempo": "10:00:00"
+	},
+	{
+		"Categoría": "Ferretería",
+		"Subcategoría": "Sub-Cat Ejemplo 6",
+		"Ahorro": "5%",
+		"Tiempo": "7:59:59"
+	},
+	{
+		"Categoría": ""
+	}
+]

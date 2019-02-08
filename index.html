@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
+<meta charset="utf-8"/>
 <head>
     <link rel="stylesheet" href="css/material.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="css/main.css">     
     <title>Calculadora de Proyectos ORMIGGA</title>
 </head>
@@ -13,7 +15,7 @@
 <div class="Title">
     <h5>Calculadora Ormigga</h5>
 </div>
-<section class="seleccion" style="display:none;">
+<section class="seleccion" >
     <div class="categoria">
         <div class="mdl-textfield mdl-js-textfield getmdl-select">
             <input type="text" value="" class="mdl-textfield__input" id="Cat" readonly>
@@ -44,7 +46,7 @@
     <button class="mdl-button mdl-js-button mdl-button--accent" id="#action" type="button">Siguiente <img src="1x/sharp_chevron_right_white_18dp.png"/></button>
     </div>
   </section>
-<div class="formulario" style="display:none;">
+<div class="formulario" >
   <form action="presupuesto">
     <div class="mdl-textfield mdl-js-textfield">
       <input class="mdl-textfield__input" type="text" pattern="-?[0-9]*(\.[0-9]+)?" id="costo-pre">
@@ -54,7 +56,7 @@
   </form>
   
   <div class="action2">
-      <button class="mdl-button mdl-js-button mdl-button--accent" id="#action" type="button">Siguiente <img src="1x/sharp_chevron_right_white_18dp.png"/></button>
+      <button class="mdl-button mdl-js-button mdl-button--accent" id="action2" type="button">Siguiente <img src="1x/sharp_chevron_right_white_18dp.png"/></button>
       </div>
 </div>
 <div class="resultado" >
