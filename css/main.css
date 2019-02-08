@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,600');
 
-
-html, body,  {
-
+ body {
     font-family: "Montserrat", sans-serif !important;
     font-size: 12px;
     font-weight: 400;
     line-height: 20px;
-
 }
+
 h1, h2, h3, h4, h5, h6{
     font-family: "Montserrat", sans-serif !important;
 }
@@ -17,6 +15,104 @@ h1, h2, h3, h4, h5, h6{
     height: 300px;
     width: 250px;
 }
+
 .Logo{
-    background: url(../ormigga-white.svg) center 15% no-repeat #46B6AC;
+    background-color: #45BCA0;
+    height: 32px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+.Logo img{
+        height: auto;
+        width: 100px;
+}
+.seleccion{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+      
+}
+h5{
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+    color: #50575F;
+}
+.resultado p{
+    font-size: 11px;
+    text-align: left;
+    color: #50575F; 
+}
+.categoria{
+    padding: 0 10px 0 10px;
+}
+.subcategoria{
+    padding: 0 10px 0 10px;
+}
+.action {
+    background-color: #45BCA0;
+    height: 32px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 42px;
+}
+.mdl-button--accent.mdl-button--accent {
+    color: #fff;
+    font-family:"Montserrat", sans-serif !important;
+}
+.formulario form{
+    padding: 0 10px 0 10px;
+}
+.action2 {
+    background-color: #45BCA0;
+    height: 32px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 113px;
+}
+.resultado{
+    display:flex;
+    justify-content: center;
+      
+}
+/*Resultado design*/
+.demo-card-event.mdl-card {
+    width: 225px;
+    height: 200px;
+    
+  }
+  .demo-card-event > .mdl-card__actions {
+    border-color: rgba(255, 255, 255, 0.2);
+    background-color: #45BCA0;
+  }
+  .demo-card-event > .mdl-card__title {
+    align-items: flex-start;
+  }
+  .demo-card-event > .mdl-card__title > h4 {
+    margin-top: 0;
+  }
+  .demo-card-event > .mdl-card__actions {
+    display: flex;
+    box-sizing:border-box;
+    align-items: center;
+  }
+  .demo-card-event > .mdl-card__actions > .material-icons {
+    padding-right: 10px;
+  }
+  .demo-card-event > .mdl-card__title,
+  .demo-card-event > .mdl-card__actions,
+  .demo-card-event > .mdl-card__actions > .mdl-button {
+    color: #fff;
+  }
+
+/* Select with MDL */
+.getmdl-select{outline:none}.getmdl-select .mdl-textfield__input{cursor:pointer}.getmdl-select .selected{background-color:#ddd}.getmdl-select .mdl-icon-toggle__label{float:right;margin-top:-30px;color:rgba(0,0,0,0.4);transform:rotate(0);transition:transform 0.3s}.getmdl-select.is-focused .mdl-icon-toggle__label{color:#3f51b5;transform:rotate(180deg)}.getmdl-select .mdl-menu__container{width:100% !important;margin-top:2px}.getmdl-select .mdl-menu__container .mdl-menu{width:100%}.getmdl-select .mdl-menu__container .mdl-menu .mdl-menu__item{font-size:16px}.getmdl-select__fix-height .mdl-menu__container .mdl-menu{overflow-y:auto;max-height:288px !important}.getmdl-select__fix-height .mdl-menu.mdl-menu--top-left{bottom:auto;top:0}
+
+/*# sourceMappingURL=getmdl-select.min.css.map */
+
