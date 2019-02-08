@@ -64,7 +64,7 @@ h5{
     color: #fff;
     font-family:"Montserrat", sans-serif !important;
 }
-.formulario form{
+form{
     padding: 0 10px 0 10px;
 }
 .action2 {
@@ -81,6 +81,7 @@ h5{
     justify-content: center;
       
 }
+
 /*Resultado design*/
 .demo-card-event.mdl-card {
     width: 225px;
